@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/678547910852783737/7b684d06ae7a4a078767de7d55dca89b/artifacts
+end_time: 1748162718528
+entry_point_name: ''
+experiment_id: '678547910852783737'
+lifecycle_stage: active
+run_id: 7b684d06ae7a4a078767de7d55dca89b
+run_name: SVC_C1.0_kernelrbf_gammascale
+run_uuid: 7b684d06ae7a4a078767de7d55dca89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748162710039
+status: 3
+tags: []
+user_id: Ahmad Musthofanur

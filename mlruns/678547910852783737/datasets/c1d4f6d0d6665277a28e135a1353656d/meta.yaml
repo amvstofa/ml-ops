@@ -1,0 +1,11 @@
+digest: 1d6343be
+name: dataset
+profile: '{"num_rows": 621, "num_elements": 3726}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Age", "required": true},
+  {"type": "long", "name": "Gender", "required": true}, {"type": "double", "name":
+  "Height", "required": true}, {"type": "double", "name": "Weight", "required": true},
+  {"type": "double", "name": "BMI", "required": true}, {"type": "double", "name":
+  "PhysicalActivityLevel", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Ahmad Musthofanur", "mlflow.source.name": "modellingopt.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

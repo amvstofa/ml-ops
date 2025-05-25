@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/806645834952140699/2780343c7a134fe08a2e93c148eb29c9/artifacts
+end_time: 1748112302949
+entry_point_name: ''
+experiment_id: '806645834952140699'
+lifecycle_stage: active
+run_id: 2780343c7a134fe08a2e93c148eb29c9
+run_name: brawny-fox-992
+run_uuid: 2780343c7a134fe08a2e93c148eb29c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748112279965
+status: 3
+tags: []
+user_id: Ahmad Musthofanur
